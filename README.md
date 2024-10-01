@@ -13,7 +13,7 @@ I don't wanna write the whole thing so here are some pictures. I think they are 
 
 ![remove](./res/remove.png)
 
-![decode after remove](./decode-after-remove.png)
+![decode after remove](./res/decode-after-remove.png)
 
 ## Building
 ### Dependencies
